@@ -16,6 +16,7 @@ while True:
         "\n2.Parodyti duomenis"
         "\n3.Parodyti balansą"
         "\n4.Išeiti"
+        "\n"
         "\nJūsų pasirinkimas:"
     )
 
